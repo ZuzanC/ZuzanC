@@ -1,10 +1,25 @@
-## Hi there I am Zuzana 👋
+# Hi, I'm @YourUsername👋
 
-I am a **frontend developer** and **UI designer** based in Denmark.
+I'm a **Frontend Developer** and **UI Designer** with a passion for creating beautiful and user-friendly web applications, especially in the **e-commerce** space. 💻
 
-Bachelor's degree in Web development and Master's Degree in Information Studies.
+## 🚀 About Me
+- I'm specialized in **e-commerce** development and enjoy crafting seamless, engaging shopping experiences.
+- My favorite frontend framework is **Vue.js**
+- I like using **Vanilla JavaScript** and I think it deserves more love 💕
+- I'm always looking to learn new technologies and improve my skills. Whether it's **designing intuitive interfaces** or **developing optimized, responsive websites**, I'm all in!
+- Beyond coding, I like to do UI design in **Figma** and love exploring creative hobbies like illustration and graphic design. 🎨
 
-💼 Open to Internship or Job Opportunities.
+## 🔧 Tech Stack
+- **Frontend:** Vue.js, React, JavaScript (Vanilla), HTML5, CSS3, SCSS, Tailwind CSS
+- **UI/UX Design:** Figma, Adobe XD, Procreate
+- **Version Control:** Git, GitHub
+- **Others:** Node.js, Webpack, APIs
+
+## 🎨 Fun Facts
+- I spend my free time exploring **digital art** in **Procreate** and designs in **Figma**, often drawing illustrations or creating graphics for personal projects.
+- I love trying out new creative hobbies and DIY projects.
+
+💼 Open to Internship or Job Opportunities./
 🤝 Available for Freelancing Opportunities.
 
 
