@@ -1,4 +1,4 @@
-# Hi, I'm @YourUsername👋
+# Hi, I'm Zuzana 👋
 
 I'm a **Frontend Developer** and **UI Designer** with a passion for creating beautiful and user-friendly web applications, especially in the **e-commerce** space. 💻
 
