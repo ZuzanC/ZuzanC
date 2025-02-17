@@ -19,7 +19,7 @@ I'm a **Frontend Developer** and **UI Designer** with a passion for creating bea
 - I spend my free time exploring **digital art** in **Procreate** and designs in **Figma**, often drawing illustrations or creating graphics for personal projects.
 - I love trying out new creative hobbies and DIY projects.
 
-💼 Open to Internship or Job Opportunities./
+💼 Open to Internship or Job Opportunities.<br>
 🤝 Available for Freelancing Opportunities.
 
 
